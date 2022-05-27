@@ -13,7 +13,7 @@
 	<artifactId>spring-ecommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-ecommerce</name>
-	<description>Curso de Spring proyecto ecommerce</description>
+	<description>Desarollo de plataforma Ecommerce Tienda SAUDADE</description>
 
 	<properties>
 		<java.version>11</java.version>
